@@ -7,6 +7,6 @@ class JPush
 {
 
    public function test(){
-       echo "test125";
+       echo "test1";
    }
 }

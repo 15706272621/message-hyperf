@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Third party message push12
+Third party message push
 
 ## Install
 
