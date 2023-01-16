@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'shenyonghang/message',
+        'reference' => '909322068a7b26408db23ff8f12e1e82be887627',
+        'name' => 'shenyonghang/message-hyperf',
         'dev' => true,
     ),
     'versions' => array(
-        'shenyonghang/message' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+        'shenyonghang/message-hyperf' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '909322068a7b26408db23ff8f12e1e82be887627',
             'dev_requirement' => false,
         ),
     ),
